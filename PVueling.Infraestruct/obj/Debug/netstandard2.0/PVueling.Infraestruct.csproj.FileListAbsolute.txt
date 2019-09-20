@@ -1,0 +1,14 @@
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\bin\Debug\netstandard2.0\PVueling.Infraestruct.deps.json
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\bin\Debug\netstandard2.0\PVueling.Infraestruct.dll
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\bin\Debug\netstandard2.0\PVueling.Infraestruct.pdb
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\bin\Debug\netstandard2.0\PVueling.Domain.dll
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\bin\Debug\netstandard2.0\PVueling.Domain.pdb
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\obj\Debug\netstandard2.0\PVueling.Infraestruct.csprojAssemblyReference.cache
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\obj\Debug\netstandard2.0\PVueling.Infraestruct.csproj.CoreCompileInputs.cache
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\obj\Debug\netstandard2.0\PVueling.Infraestruct.AssemblyInfoInputs.cache
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\obj\Debug\netstandard2.0\PVueling.Infraestruct.AssemblyInfo.cs
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\obj\Debug\netstandard2.0\PVueling.Infraestruct.csproj.CopyComplete
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\obj\Debug\netstandard2.0\PVueling.Infraestruct.dll
+C:\Users\mperez\source\repos\PVueling\PVueling.Infraestruct\obj\Debug\netstandard2.0\PVueling.Infraestruct.pdb

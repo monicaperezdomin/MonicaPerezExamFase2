@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog.Extensions.Logging.File" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PVueling.Domain\PVueling.Domain.csproj" />
+    <ProjectReference Include="..\PVueling.Infraestruct\PVueling.Infraestruct.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\PVueling.Domain.dll
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\PVueling.Domain.pdb
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csprojAssemblyReference.cache
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CopyComplete
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb

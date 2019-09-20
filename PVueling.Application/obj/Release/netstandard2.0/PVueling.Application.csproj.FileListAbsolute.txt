@@ -1,0 +1,16 @@
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\bin\Release\netstandard2.0\PVueling.Application.deps.json
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\bin\Release\netstandard2.0\PVueling.Application.dll
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\bin\Release\netstandard2.0\PVueling.Application.pdb
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\bin\Release\netstandard2.0\PVueling.Domain.dll
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\bin\Release\netstandard2.0\PVueling.Infraestruct.dll
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\bin\Release\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\bin\Release\netstandard2.0\PVueling.Domain.pdb
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\bin\Release\netstandard2.0\PVueling.Infraestruct.pdb
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\bin\Release\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\obj\Release\netstandard2.0\PVueling.Application.csprojAssemblyReference.cache
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\obj\Release\netstandard2.0\PVueling.Application.csproj.CoreCompileInputs.cache
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\obj\Release\netstandard2.0\PVueling.Application.AssemblyInfoInputs.cache
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\obj\Release\netstandard2.0\PVueling.Application.AssemblyInfo.cs
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\obj\Release\netstandard2.0\PVueling.Application.csproj.CopyComplete
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\obj\Release\netstandard2.0\PVueling.Application.dll
+C:\Users\mperez\source\repos\PVueling\PVueling.Application\obj\Release\netstandard2.0\PVueling.Application.pdb

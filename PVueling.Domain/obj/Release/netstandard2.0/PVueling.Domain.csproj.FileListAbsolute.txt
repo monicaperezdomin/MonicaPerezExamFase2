@@ -1,0 +1,12 @@
+C:\Users\mperez\source\repos\PVueling\PVueling.Domain\bin\Release\netstandard2.0\PVueling.Domain.deps.json
+C:\Users\mperez\source\repos\PVueling\PVueling.Domain\bin\Release\netstandard2.0\PVueling.Domain.dll
+C:\Users\mperez\source\repos\PVueling\PVueling.Domain\bin\Release\netstandard2.0\PVueling.Domain.pdb
+C:\Users\mperez\source\repos\PVueling\PVueling.Domain\bin\Release\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\mperez\source\repos\PVueling\PVueling.Domain\bin\Release\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\mperez\source\repos\PVueling\PVueling.Domain\obj\Release\netstandard2.0\PVueling.Domain.csprojAssemblyReference.cache
+C:\Users\mperez\source\repos\PVueling\PVueling.Domain\obj\Release\netstandard2.0\PVueling.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mperez\source\repos\PVueling\PVueling.Domain\obj\Release\netstandard2.0\PVueling.Domain.AssemblyInfoInputs.cache
+C:\Users\mperez\source\repos\PVueling\PVueling.Domain\obj\Release\netstandard2.0\PVueling.Domain.AssemblyInfo.cs
+C:\Users\mperez\source\repos\PVueling\PVueling.Domain\obj\Release\netstandard2.0\PVueling.Domain.csproj.CopyComplete
+C:\Users\mperez\source\repos\PVueling\PVueling.Domain\obj\Release\netstandard2.0\PVueling.Domain.dll
+C:\Users\mperez\source\repos\PVueling\PVueling.Domain\obj\Release\netstandard2.0\PVueling.Domain.pdb

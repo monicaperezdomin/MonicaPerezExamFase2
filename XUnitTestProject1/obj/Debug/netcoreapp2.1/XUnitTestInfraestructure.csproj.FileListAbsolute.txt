@@ -1,0 +1,17 @@
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestInfraestructure.deps.json
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestInfraestructure.runtimeconfig.json
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestInfraestructure.runtimeconfig.dev.json
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestInfraestructure.dll
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestInfraestructure.pdb
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\PVueling.Domain.dll
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\bin\Debug\netcoreapp2.1\PVueling.Domain.pdb
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestInfraestructure.csprojAssemblyReference.cache
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestInfraestructure.csproj.CoreCompileInputs.cache
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestInfraestructure.AssemblyInfoInputs.cache
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestInfraestructure.AssemblyInfo.cs
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestInfraestructure.csproj.CopyComplete
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestInfraestructure.dll
+C:\Users\mperez\source\repos\PVueling\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestInfraestructure.pdb
